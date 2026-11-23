@@ -9,7 +9,7 @@ AI FOOD RECOMMENDATION digunakan untuk mencari makan dan nilai gizi sesuai keing
 - CSS
 
 ## FITUR
-- Dafa
+- 
 
 ## CARA MENJALANKANNYA 
 - Unduh zip repository ini
