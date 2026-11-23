@@ -1,0 +1,57 @@
+nama,kategori,bahan,cita_rasa,kalori,protein,lemak,karbohidrat,harga,vegetarian,alergi
+Nasi Goreng,Nasi,"nasi, telur, bawang merah, bawang putih, kecap manis, cabai",gurih pedas,550,15,20,75,15000,tidak,telur
+Nasi Uduk,Nasi,"nasi, santan, daun salam, serai, bawang goreng, telur",gurih,480,10,18,68,13000,tidak,telur
+Nasi Kuning,Nasi,"nasi, santan, kunyit, serai, daun salam, telur",gurih,500,11,17,73,15000,tidak,telur
+Nasi Liwet,Nasi,"nasi, santan, serai, daun salam, teri, bawang putih",gurih,470,12,15,70,16000,tidak,ikan
+Bubur Ayam,Nasi,"beras, ayam, kaldu, bawang goreng, kecap asin, seledri",gurih,350,14,10,50,12000,tidak,-
+Mie Goreng,Mie,"mie, telur, bawang merah, bawang putih, kecap manis, cabai, sawi",gurih manis,600,14,22,85,14000,tidak,telur;gluten
+Bihun Goreng,Mie,"bihun, telur, bawang putih, kecap manis, wortel, sawi",gurih,420,10,12,68,13000,tidak,telur
+Kwetiau Goreng,Mie,"kwetiau, udang, telur, bawang putih, kecap manis, tauge",gurih,520,16,18,72,18000,tidak,telur;seafood
+Mie Ayam,Mie,"mie, ayam, kecap manis, bawang putih, sawi, bakso",gurih,540,22,16,78,15000,tidak,gluten
+Mie Aceh,Mie,"mie, daging sapi, cabai, bawang merah, kari, tomat",pedas gurih,650,25,28,80,25000,tidak,gluten
+Mie Rebus,Mie,"mie, telur, sawi, kecap manis, bawang putih, kuah",gurih hangat,480,13,14,76,14000,tidak,telur;gluten
+Soto Ayam,Sup,"ayam, kunyit, serai, bawang putih, kuah, telur, kentang",gurih hangat,320,24,12,28,15000,tidak,telur
+Soto Betawi,Sup,"daging sapi, santan, susu, bawang putih, kuah, kentang, tomat",gurih,480,26,28,25,25000,tidak,susu
+Rawon,Sup,"daging sapi, kluwek, serai, bawang putih, kuah, tauge, telur asin",gurih,400,28,20,24,25000,tidak,telur
+Sop Buntut,Sup,"buntut sapi, wortel, kentang, bawang putih, kuah, seledri",gurih,450,27,24,22,45000,tidak,-
+Sop Ayam,Sup,"ayam, wortel, kentang, seledri, bawang putih, kuah",gurih hangat,250,20,8,25,14000,tidak,-
+Bakso,Sup,"bakso sapi, mie, tauge, seledri, kuah, bawang goreng",gurih hangat,380,18,14,45,15000,tidak,gluten
+Sup Sayur,Sup,"wortel, kol, kentang, buncis, seledri, kuah",gurih segar,120,4,3,20,10000,ya,-
+Sayur Asem,Sayur,"jagung, kacang panjang, melinjo, asam jawa, kuah, labu siam",asam segar,120,4,2,24,8000,ya,-
+Sayur Lodeh,Sayur,"labu siam, santan, terong, kacang panjang, kuah, cabai",gurih,200,5,10,25,9000,ya,-
+Gado-gado,Sayur,"kangkung, tauge, kentang, tahu, tempe, bumbu kacang, lontong",gurih manis,380,15,18,40,15000,ya,kacang;kedelai
+Pecel,Sayur,"bayam, kacang panjang, tauge, bumbu kacang, kemangi, cabai",gurih pedas,300,12,14,35,12000,ya,kacang
+Urap,Sayur,"bayam, kelapa, kacang panjang, tauge, cabai, kencur",gurih pedas,180,6,8,22,9000,ya,-
+Capcay,Sayur,"sawi, wortel, kol, udang, bawang putih, jamur",gurih,150,8,6,18,18000,tidak,seafood
+Tumis Kangkung,Sayur,"kangkung, bawang putih, cabai, terasi, minyak, garam",gurih pedas,90,3,5,8,10000,ya,-
+Karedok,Sayur,"kol, kacang panjang, tauge, timun, bumbu kacang, kemangi",gurih segar,230,8,12,25,12000,ya,kacang
+Ayam Geprek,Ayam,"ayam, tepung, cabai, bawang putih, minyak, garam",pedas gurih,520,28,28,40,18000,tidak,gluten
+Ayam Bakar,Ayam,"ayam, kecap manis, bawang putih, bawang merah, cabai, jeruk nipis",manis gurih,380,30,18,15,22000,tidak,-
+Ayam Goreng Kremes,Ayam,"ayam, tepung, bawang putih, ketumbar, kunyit, daun salam",gurih,500,29,30,28,20000,tidak,gluten
+Opor Ayam,Ayam,"ayam, santan, serai, daun salam, kunyit, bawang putih",gurih,430,27,28,12,22000,tidak,-
+Ayam Penyet,Ayam,"ayam, cabai, bawang putih, tomat, terasi, minyak",pedas gurih,480,29,26,30,20000,tidak,-
+Rendang,Daging,"daging sapi, santan, cabai, serai, lengkuas, kunyit",pedas gurih,468,30,32,10,35000,tidak,-
+Semur Daging,Daging,"daging sapi, kecap manis, bawang merah, pala, cengkeh, kentang",manis gurih,350,25,18,20,28000,tidak,-
+Empal Gepuk,Daging,"daging sapi, kecap manis, ketumbar, lengkuas, bawang putih, minyak",manis gurih,400,28,22,15,30000,tidak,-
+Gulai Kambing,Daging,"kambing, santan, kunyit, serai, cabai, jahe",pedas gurih,480,27,35,10,38000,tidak,-
+Sate Ayam,Sate,"ayam, bumbu kacang, kecap manis, bawang merah, arang, lontong",manis gurih,400,26,18,30,20000,tidak,kacang
+Sate Kambing,Sate,"kambing, kecap manis, bawang merah, cabai, tomat, arang",manis gurih,450,28,25,18,30000,tidak,-
+Sate Padang,Sate,"daging sapi, kuah kuning, tepung beras, cabai, kunyit, lontong",pedas gurih,420,24,20,32,25000,tidak,gluten
+Tempe Goreng,Gorengan,"tempe, tepung, bawang putih, ketumbar, minyak, garam",gurih,200,12,12,10,5000,ya,kedelai;gluten
+Tahu Isi,Gorengan,"tahu, tepung, wortel, tauge, cabai, minyak",gurih pedas,180,8,10,14,5000,ya,kedelai;gluten
+Bakwan,Gorengan,"kol, wortel, tepung, tauge, bawang putih, minyak",gurih,160,4,9,17,4000,ya,gluten
+Perkedel Kentang,Gorengan,"kentang, telur, bawang putih, seledri, pala, minyak",gurih,170,5,9,18,5000,tidak,telur
+Tahu Goreng,Gorengan,"tahu, bawang putih, garam, minyak, cabai, kecap manis",gurih,150,10,10,5,5000,ya,kedelai
+Pisang Goreng,Dessert,"pisang, tepung, gula, minyak, garam, vanili",manis,250,3,10,38,5000,ya,gluten
+Es Cendol,Dessert,"santan, gula merah, cendol, es, pandan, nangka",manis segar,280,3,8,48,8000,ya,-
+Klepon,Dessert,"ketan, gula merah, kelapa, pandan, garam, tepung",manis,220,3,6,38,6000,ya,-
+Kolak Pisang,Dessert,"pisang, santan, gula merah, ubi, pandan, garam",manis hangat,260,2,6,50,8000,ya,-
+Es Campur,Dessert,"es, susu, sirup, alpukat, nangka, kelapa muda",manis segar,300,3,7,56,12000,ya,susu
+Martabak Manis,Dessert,"tepung, telur, susu, coklat, kacang, mentega",manis,450,9,18,62,25000,tidak,telur;gluten;susu;kacang
+Bubur Sumsum,Dessert,"tepung beras, santan, gula merah, pandan, garam",manis,200,3,5,36,7000,ya,-
+Onde-onde,Dessert,"ketan, kacang hijau, wijen, gula, minyak, tepung",manis,240,4,8,38,5000,ya,gluten
+Ikan Bakar,Seafood,"ikan, kecap manis, bawang putih, cabai, jeruk nipis, tomat",pedas manis,300,32,12,5,30000,tidak,ikan
+Pepes Ikan,Seafood,"ikan, kemangi, cabai, bawang merah, tomat, daun pisang",pedas segar,250,30,12,6,25000,tidak,ikan
+Cumi Goreng Tepung,Seafood,"cumi, tepung, bawang putih, cabai, minyak, garam",gurih,350,24,18,20,28000,tidak,seafood;gluten
+Udang Saus Padang,Seafood,"udang, cabai, tomat, bawang putih, saus tiram, jahe",pedas gurih,320,26,14,22,40000,tidak,seafood
+Ikan Goreng,Seafood,"ikan, kunyit, bawang putih, ketumbar, minyak, garam",gurih,340,31,18,8,22000,tidak,ikan
